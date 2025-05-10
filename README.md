@@ -17,7 +17,7 @@
 
 1. Клонировать репозиторий  
    ```bash
-   git clone [https://github.com/reybrally/url-shortener-rest-api.git](https://github.com/reybrally/url-shortener.git)
+   git clone [https://github.com/reybrally/url-shortener-rest-api.git]
    cd url-shortener
 ```
 
