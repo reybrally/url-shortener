@@ -17,8 +17,8 @@
 
 1. Клонировать репозиторий  
    ```bash
-   git clone https://github.com/reybrally/url-shortener-rest-api.git
-   cd url-shortener-rest-api
+   git clone [https://github.com/reybrally/url-shortener-rest-api.git](https://github.com/reybrally/url-shortener.git)
+   cd url-shortener
 ```
 
 2. Установить зависимости Go
